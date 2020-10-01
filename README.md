@@ -20,6 +20,14 @@ conda install jupyter
 ```
 or using pip install and the requirement file.
 
+# Data
+This work was based on three datasets; please download the datasets and put it correctly (Train/Test) in the dataset folder.
+- *MNIST dataset*: Provided in the dataset folder.
+[Track 1: “Clean”](https://competitions.codalab.org/competitions/22225)
+- [*ARAD hyperspectral dataset:*](https://competitions.codalab.org/competitions/22225) 450 hyperspectral training images and 10 validation images. The dataset  are available on the [challenge track websites](https://competitions.codalab.org/competitions/22225), registration is required to access data.
+- *NYU Depth Dataset:*
+
+
 ## Structure of directories
 
 | directory  | description  |
