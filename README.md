@@ -18,5 +18,17 @@ All of them can be installed via `conda` (`anaconda`), e.g.
 ```
 conda install jupyter
 ```
+or using pip install and the requirement file.
+
+## Structure of directories
+
+| directory  | description  |
+| :--------: | :----------- | 
+| `algorithms` | MATLAB functions of main algorithms proposed in the paper (original) | 
+| `tests`    | MATLAB scripts to reproduce the results in the paper (original) |
+| `packages`   | algorithms adapted from the state-of-art algorithms (adapted)|
+| `dataset`    | data used for reconstruction (simulated and real data, refer to the readme file for details) |
+| `results`    | results of reconstruction (after reconstruction) |
+| `utils`      | utility functions |
 
 
