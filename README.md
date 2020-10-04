@@ -31,11 +31,8 @@ This work was based on three datasets; please download the datasets and put it c
 
 | directory  | description  |
 | :--------: | :----------- | 
-| `algorithms` | MATLAB functions of main algorithms proposed in the paper (original) | 
-| `tests`    | MATLAB scripts to reproduce the results in the paper (original) |
-| `packages`   | algorithms adapted from the state-of-art algorithms (adapted)|
-| `dataset`    | data used for reconstruction (simulated and real data, refer to the readme file for details) |
-| `results`    | results of reconstruction (after reconstruction) |
-| `utils`      | utility functions |
+| `Dataset` | Folder for the datasets | 
+| `Models and Tools`    | `.py` files for the custumer models |
+
 
 
