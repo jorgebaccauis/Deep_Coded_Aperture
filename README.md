@@ -1,7 +1,7 @@
 # Deep Coded Aperture Design: An End-to-End Approach for Computational Imaging Tasks
 This repository provides the Python source codes related to the paper "Deep Coded Aperture Design: An End-to-EndApproach for Computational Imaging Tasks"
 
-[![arxiv.org](https://img.shields.io/badge/cs.CV-arXiv%3A2105.03390-B31B1B.svg)]([https://arxiv.org/abs/2101.07424](https://arxiv.org/pdf/2105.03390.pdf))
+[![arxiv.org](https://img.shields.io/badge/cs.CV-arXiv%3A2105.03390-B31B1B.svg)](https://arxiv.org/pdf/2105.03390.pdf)
 # Installation
 
 List of libraries required to execute the code.:
